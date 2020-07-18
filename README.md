@@ -8,4 +8,4 @@ Here I have included various learning and practice content during my Deep Learni
 
 **Image Captioning** folder has some implementation I followed to train the model to generate the alt-text of the Images. It uses Keras 1.2.2
 
-I am currently working on **Deep Learning NanoDegree** program by Udacity! Will keep updating!
+ **Deep Learning NanoDegree** contains the coursework of Udacity DL nanodegree. 
